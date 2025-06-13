@@ -1,0 +1,43 @@
+# 📁 Environnement virtuel
+venv/
+.env/
+
+# 💾 Fichiers modèles sauvegardés
+models/*.pt
+models/*.pth
+models/report.json
+models/test_model.pt
+
+# 📊 Notebooks temporaires
+*.ipynb_checkpoints/
+
+# 🧪 Résultats de test
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.coverage
+coverage.xml
+.cache/
+pytest_cache/
+
+# 📄 Logs, artefacts & runtime
+*.log
+*.out
+*.tmp
+.DS_Store
+
+# 🧠 Torch / torchvision caches
+~/.torch/
+~/.cache/
+
+# 📦 Packaging
+dist/
+build/
+*.egg-info/
+
+# 🚀 VS Code
+.vscode/
+
+# 📈 Jupyter Notebook Checkpoints
+.ipynb_checkpoints/
