@@ -1,7 +1,7 @@
 # README.md
 # 🧠 Model Compression Project
 
-Ce projet montre comment appliquer différentes techniques de compression de modèles de deep learning en PyTorch :
+Ce projet montr comment appliquer différentes techniques de compression de modèles de deep learning en PyTorch :
 - Pruning (élagage)
 - Quantization (quantification)
 - Knowledge Distillation (distillation de connaissances)
