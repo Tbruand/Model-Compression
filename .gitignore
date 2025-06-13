@@ -7,6 +7,8 @@ models/*.pt
 models/*.pth
 models/report.json
 models/test_model.pt
+# On garde le dossier models/ dans le repo même s'il est vide
+!models/.gitkeep
 
 # 📊 Notebooks temporaires
 *.ipynb_checkpoints/
